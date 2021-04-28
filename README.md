@@ -1,4 +1,4 @@
-# gilpgdm.github.io
+# rickmrdm.github.io
 Apuntes sobre Desarrollo Multiplataforma
 
-https://gilpgdm.github.io
+https://rickmrdm.github.io
