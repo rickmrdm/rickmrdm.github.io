@@ -32,7 +32,7 @@
         <div>&nbsp;&nbsp;<span style="color: #001080;">window</span>[<span
               style="color: #a31515;">"opera"</span>];</div>
         <div><span style="color: #af00db;">if</span>&nbsp;(<span
-              style="color: #811f3f;">/android/</span><span
+              style="color: #811f3f;">/.*android.*/</span><span
               style="color: #0000ff;">i</span>.<span
               style="color: #795e26;">test</span>(<span
               style="color: #0070c1;">USER_AGENT</span>))&nbsp;{</div>
@@ -44,13 +44,13 @@
               style="color: #a31515;">"android"</span>);</div>
         <div>}</div>
         <div><span style="color: #af00db;">if</span>&nbsp;(<span
-              style="color: #811f3f;">/iPad</span><span
+              style="color: #811f3f;">/.*(iPad</span><span
               style="color: #ee0000;">|</span><span
               style="color: #811f3f;">iPhone</span><span
               style="color: #ee0000;">|</span><span
               style="color: #811f3f;">iPod</span><span
               style="color: #ee0000;">|</span><span
-              style="color: #811f3f;">Mac/</span>.</div>
+              style="color: #811f3f;">Mac).*/</span>.</div>
         <div>&nbsp;&nbsp;<span style="color: #795e26;">test</span>(<span
               style="color: #0070c1;">USER_AGENT</span>)&nbsp;&amp;&amp;</div>
         <div>&nbsp;&nbsp;!<span style="color: #001080;">window</span>.<span
