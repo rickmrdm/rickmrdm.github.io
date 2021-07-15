@@ -99,7 +99,7 @@ class MiNav extends HTMLElement {
             </ol>
           </details>
         </li>
-       <!-- <li>
+        <li>
           <details>
             <summary>
               <h3>Control de sesión</h3>
@@ -121,7 +121,7 @@ class MiNav extends HTMLElement {
               <li><p><a href="/e_sesion/15_LICENSE.html">LICENSE</a></p></li>
             </ol>
           </details>
-        </li>-->
+        </li>
        <!-- <li>
           <details>
             <summary>
