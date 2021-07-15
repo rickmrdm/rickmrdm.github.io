@@ -102,7 +102,7 @@ class MiNav extends HTMLElement {
         <li>
           <details>
             <summary>
-              <h3>Control de sesión</h3>
+               <h3>Control de sesión</h3>
             </summary>
             <ol>
              <li><p><a href="/e_sesion/index.html">Control de sesión</a></p></li>
