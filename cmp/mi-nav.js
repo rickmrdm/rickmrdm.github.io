@@ -105,21 +105,18 @@ class MiNav extends HTMLElement {
               <h3>Control de sesión</h3>
             </summary>
             <ol>
-              <li><p><a href="/e_sesion/index.html">Control de sesión</a></p></li>
-              <li><p><a href="/e_sesion/3_arquitectura.html">Arquitectura</a></p></li>
-              <li><p><a href="/e_sesion/4_despliegue.html">Despliegue</a></p></li>
-              <li><p><a href="/e_sesion/5_er.html">Diagrama Entidad Relación</a></p></li>
-              <li><p><a href="/e_sesion/6_no_rel.html">Diseño par llave-valor</a></p></li>
-              <li><p><a href="/e_sesion/7_instrucciones.html">Instrucciones</a></p></li>
-              <li><p><a href="/e_sesion/8_archivos.html">Archivos</a></p></li>
-              <li><p><a href="/e_sesion/9_index_html.html">www/index.html</a></p></li>
-              <li><p><a href="/e_sesion/10_CtrlSesion.html">www/js/CtrlSesion.js</a></p></li>
-              <li><p><a href="/e_sesion/11_b.html">b.js</a></p></li>
-              <li><p><a href="/e_sesion/12_index_js.html">index.js</a></p></li>
-              <li><p><a href="/e_sesion/13_creaUsuarios.html">servicios/creaUsuarios.js</a></p></li>
-              <li><p><a href="/e_sesion/14_validaUsuario.html">servicios/validaUsuario.js</a></p></li>
-              <li><p><a href="/e_sesion/15_LICENSE.html">LICENSE</a></p></li>
-            </ol>
+            <li><p><a href="/e_sesion/index.html">Control de sesión</a></p></li>
+            <li><p><a href="/e_sesion/3_arquitectura.html">Arquitectura</a></p></li>
+            <li><p><a href="/e_sesion/4_despliegue.html">Despliegue</a></p></li>
+            <li><p><a href="/e_sesion/5_er.html">Diagrama Entidad Relación</a></p></li>
+            <li><p><a href="/e_sesion/7_instrucciones.html">Instrucciones</a></p></li>
+            <li><p><a href="/e_sesion/8_archivos.html">Archivos</a></p></li>
+            <li><p><a href="/e_sesion/9_index_html.html">www/index.html</a></p></li>
+            <li><p><a href="/e_sesion/10_CtrlSesion.html">www/js/CtrlSesion.js</a></p></li>
+            <li><p><a href="/e_sesion/12_index_js.html">index.js</a></p></li>
+            <li><p><a href="/e_sesion/14_validaUsuario.html">servicios/validaUsuario.js</a></p></li>
+            <li><p><a href="/e_sesion/15_LICENSE.html">LICENSE</a></p></li>
+           </ol>
           </details>
         </li>
        <!-- <li>
