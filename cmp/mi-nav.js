@@ -119,7 +119,7 @@ class MiNav extends HTMLElement {
            </ol>
           </details>
         </li>
-       <!-- <li>
+       <li>
           <details>
             <summary>
               <h3>IoT</h3>
@@ -155,7 +155,7 @@ class MiNav extends HTMLElement {
               <li><p><a href="/f_iot/29_LICENSE.html">LICENSE</a></p></li>
             </ol>
           </details>
-        </li>-->
+        </li>
       </ol>`;
   }
 }
