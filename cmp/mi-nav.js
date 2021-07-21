@@ -146,13 +146,13 @@ class MiNav extends HTMLElement {
               <li><p><a href="/f_iot/20_estilos.html">www/css/estilos.css</a></p></li>
               <li><p><a href="/f_iot/21_footer.html">www/js/mi-footer.js</a></p></li>
               <li><p><a href="/f_iot/22_utilsrv.html">servicios/utilsrv.js</a></p></li>
-              <li><p><a href="/f_iot/23_index_js.html">index.js</a></p></li>
               <li><p><a href="/f_iot/24_agregaEntrada.html">servicios/agregaEntrada.js</a></p></li>
               <li><p><a href="/f_iot/25_agregaSalida.html">servicios/agregaSalida.js</a></p></li>
               <li><p><a href="/f_iot/26_historico.html">servicios/historico.js</a></p></li>
               <li><p><a href="/f_iot/27_recuperaEntrada.html">servicios/recuperaEntrada.js</a></p></li>
               <li><p><a href="/f_iot/28_recuperaSalida.html">servicios/recuperaSalida.js</a></p></li>
               <li><p><a href="/f_iot/29_LICENSE.html">LICENSE</a></p></li>
+               <li><p><a href="/f_iot/23_index_js.html">index.js</a></p></li>
             </ol>
           </details>
         </li>
