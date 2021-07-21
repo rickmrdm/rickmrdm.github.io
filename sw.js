@@ -1,6 +1,6 @@
 /* Espera 11 minutos después de hacer los cambios en tu sitio, para depués
  * actualizar este archivo. */
-const CACHE = "rickmrdm-1.33";
+const CACHE = "rickmrdm-1.34";
 
 /** Archivos requeridos para que la aplicación funcione fuera de línea. */
 const ARCHIVOS = [
@@ -121,7 +121,7 @@ const ARCHIVOS = [
   "f_iot/19_util.html",
   "f_iot/20_estilos.html",
   "f_iot/21_footer.html",
-  "f_iot/22_b.html",
+  "f_iot/22_utilsrv.html",
   "f_iot/23_index_js.html",
   "f_iot/24_agregaEntrada.html",
   "f_iot/25_agregaSalida.html",
