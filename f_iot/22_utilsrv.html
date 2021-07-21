@@ -1,0 +1,21 @@
+const MongoClient =
+  require('mongodb').MongoClient;
+/* Cambia el valor por el que te
+ * proporciona Atlas y cambia
+ * <password> por la contraseña
+ * del usuario que creaste dentro
+ * de Atlas. */
+const uri = "mongodb+srv://UUU:<password>@cluster0.nvilc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+
+function clienteMongo() {
+  return new MongoClient(
+    uri,
+    {
+      useNewUrlParser: true,
+      useUnifiedTopology: true
+    });
+}
+
+module.exports = {
+  clienteMongo
+}
